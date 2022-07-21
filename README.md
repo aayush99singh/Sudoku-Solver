@@ -1,15 +1,15 @@
 # Sudoku-Solver
-## Hold the image in front of the camera like this :
+## Hold The Image in Front of The Camera Like This :
 ![image](https://user-images.githubusercontent.com/55214244/135301365-378b8899-6890-495f-b642-7d6dc77b9cf4.png)
 
 
 ## MAIN STEPS INVOLVED
 
-1) Processing of the Sudoku grid
+1) Processing of The Sudoku grid
 
 2) Recognition of Digits
 
-3) Solving the puzzle
+3) Solving The Puzzle
 
 ### STEP1 : PROCESSING OF THE SUDOKU GRID INVOLVES -
 
@@ -60,5 +60,5 @@ compiled and fit into the model.
 Greedy best-first search algorithm always selects the path which
 appears best at that moment.
 
-## Final results will be like this
+## Final Results Will Be Like This
 ![image](https://user-images.githubusercontent.com/55214244/135299657-b9631f9a-b8ec-4a58-a5bd-cce933219d2b.png)
