@@ -1,5 +1,5 @@
 # Sudoku-Solver
-## Hold the image in front of the camera like this:
+## Hold the image in front of the camera like this :
 ![image](https://user-images.githubusercontent.com/55214244/135301365-378b8899-6890-495f-b642-7d6dc77b9cf4.png)
 
 
@@ -11,7 +11,7 @@
 
 3) Solving the puzzle
 
-### STEP1 : PROCESSING OF THE SUDOKU GRID INVOLVES-
+### STEP1 : PROCESSING OF THE SUDOKU GRID INVOLVES -
 
 1. Converting the image clicked into greyscale image.
 
@@ -35,13 +35,13 @@ a nice and stable Sudoku Grid Image.
 
 ## STEP2 : DIGIT RECOGNITION
 
-### Steps Involved are:
+### Steps Involved are :
 
 1) Image pre-processing,
 
 2) Training a Convolutional Neural Network model to
 classify the digits.
-### Our dataset consists of a subset of Chars74k dataset:
+### Our Data Set consists of a subset of Chars74K Data Set :
 
 We used a Conventional Neural Network(CNN) to train our dataset
 
