@@ -11,7 +11,7 @@
 
 3) Solving the puzzle
 
-### STEP1: PROCESSING OF THE SUDOKU GRID INVOLVES-
+### STEP1 : PROCESSING OF THE SUDOKU GRID INVOLVES-
 
 1. Converting the image clicked into greyscale image.
 
