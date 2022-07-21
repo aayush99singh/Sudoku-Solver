@@ -5,11 +5,11 @@
 
 ## MAIN STEPS INVOLVED
 
-1) Processing of The Sudoku grid
+1) Processing of the Sudoku grid
 
 2) Recognition of Digits
 
-3) Solving The Puzzle
+3) Solving the Puzzle
 
 ### STEP1 : PROCESSING OF THE SUDOKU GRID INVOLVES -
 
@@ -35,13 +35,13 @@ a nice and stable Sudoku Grid Image.
 
 ## STEP2 : DIGIT RECOGNITION
 
-### Steps Involved are :
+### Steps Involved Are :
 
 1) Image pre-processing,
 
 2) Training a Convolutional Neural Network model to
 classify the digits.
-### Our Data Set consists of a subset of Chars74K Data Set :
+### Our Data Set consists of a SubSet of Chars74K Data Set :
 
 We used a Conventional Neural Network(CNN) to train our dataset
 
