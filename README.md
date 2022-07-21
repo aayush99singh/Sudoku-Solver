@@ -1,5 +1,7 @@
 # Sudoku Solver
-Code Repo for Sudoku Solver Project
+
+– Code Repo for Sudoku Solver Project
+
 ## Hold The Image in Front of The Camera Like This :
 ![image](https://user-images.githubusercontent.com/55214244/135301365-378b8899-6890-495f-b642-7d6dc77b9cf4.png)
 
